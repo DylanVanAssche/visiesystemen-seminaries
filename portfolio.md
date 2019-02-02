@@ -1,5 +1,9 @@
 # Visiesystemen: seminaries portfolio
 
+_Van Assche Dylan_
+_Master-ICT_
+_Campus De Nayer (KU Leuven) 2018 - 2019_
+
 | Titel    								 														|  Datum   				| Toegewezen tijd	|
 | :------------------------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------: | -----------------------: |
 |  Introductie EAVISE 3D onderzoek (Patrick Vandewalle)												| 05/10/2018 12u45 - 13u45	| 1 uur			|
