@@ -19,10 +19,13 @@ _Campus De Nayer (KU Leuven) 2018 - 2019_
 |  Quick and clean deep learning classifier improvements with SVMs (Floris De Feyter)						| 30/11/2018 12u45 - 13u45  	| Campus De Nayer		| 1 hour			|
 |  Energy Imbalance Price Peak Prediction Using FFT-Features (Laurent Mertens)							| 07/12/2018 12u45 - 13u45    | Campus De Nayer		| 1 hour			|
 |  Low latency object detection with 16-bit float and 8-bit integer networks (Maarten Vandersteegen)			| 14/12/2018 12u45 - 13u45    | Campus De Nayer		| 1 hour			|
-|  FOSDEM 2019 in Brussels: see below															| 02/02/2019 10u00 - 23u00	| ULB Campus du Solbosch	| TBD			|
+|  FOSDEM 2019 in Brussels: see below															| 02/02/2019 10u00 - 23u00	| ULB Campus du Solbosch	| FOSDEM hours			|
+| Test-run of preliminary PhD Defense | 11/02/2019 12u45 - 13u45 | Campus De Nayer | 1 hour|
+| SatCen - Robust and Versatile Object Detection on Sattelite Imagery | 04/03/2019 12h45- 13h45 | Campus De Nayer | 1 hour |
 
 **Minimum amount of seminars hours to pass this class:** 15 hours
-**Total amount of seminars hours:** 13 + FOSDEM hours
+
+**Total amount of seminars hours:** 15 + FOSDEM hours
 
 ## FOSDEM 2019 
 
